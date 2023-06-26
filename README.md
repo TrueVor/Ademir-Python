@@ -16,7 +16,7 @@ Bot criado para facilitar a vida dos ademir de Discord em Python
 
 ### Funcionalidades
 
-Estamos passando as funcionalidades do bot Ademir, que se encontra em C#, para Python
+Estamos passando as funcionalidades do bot [Ademir](https://github.com/welldtr/AdemirBot), que se encontra em C#, para Python
 - **Comando /denunciar**: Utilize esse comando para denunciar algo que fere as regras do servidor.
 - **Comando /config-reward**: Configurar as regras das recompensas de bump. (Admin Only) **[NÃO IMPLEMENTADO]**
 - **Comando /config-denuncias**: Configurar onde as denúncias serão postadas. (Admin Only)
