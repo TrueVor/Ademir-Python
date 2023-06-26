@@ -2,8 +2,6 @@
 
 ![Logo do Projeto](https://media.makeameme.org/created/the-admin-has-5c9be2.jpg)
 
-Descrição concisa do projeto.
-
 ## Tabela de Conteúdos
 
 - [Visão Geral](#visão-geral)
